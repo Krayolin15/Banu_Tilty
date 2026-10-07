@@ -1,0 +1,28 @@
+IMAGE SOURCES FOR 2026 PRODUCT PLACEHOLDERS
+
+The following placeholder product illustrations were replaced with web-hosted reference imagery. The existing local product images remain as automatic fallbacks if an external image is unavailable.
+
+1) 2026-01 Recycle — toilet tissue
+Source: Unsplash — white toilet paper rolls photo
+License: Unsplash License
+https://unsplash.com/photos/white-toilet-paper-roll-on-white-table-gSdhs5DJ1bg
+
+2) 2026-02 Virgin 1Ply — toilet tissue
+Source: Unsplash — white toilet paper roll photo
+License: Unsplash License
+https://unsplash.com/photos/white-toilet-paper-roll-on-white-table-DhxxJ7PGRaw
+
+3) 2026-03 Virgin 1Ply — toilet tissue
+Source: Unsplash — white toilet paper roll photo
+License: Unsplash License
+https://unsplash.com/photos/white-toilet-paper-roll-on-white-table-OnCvMDd9SIM
+
+4) 2026-06 2kg jumbo wipes
+Source: Kimberly-Clark Professional — WypAll L20 7389 product image
+Reference source: https://www.kcprofessional.com/en-za/products/wiping-and-cleaning/general-cleaning/large-rolls/7389/7389
+
+5) 2026-07 2.5kg jumbo wipes
+Source: Kimberly-Clark Professional — WypAll L10 7391 product image
+Reference source: https://www.kcprofessional.com/en-za/products/wiping-and-cleaning/general-cleaning/large-rolls/7391/7391
+
+Note: These are category-matching reference photographs, not representations of the Banu & Tilly branded packaging. Product names, pack sizes, and specifications in the catalogue are unchanged.
